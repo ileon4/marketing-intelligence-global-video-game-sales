@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tooling and logs
+.pytest_cache/
+.mypy_cache/
+*.log
