@@ -1,4 +1,4 @@
-# Video Game Sales Analysis
+# Marketing Intelligence Global Video Game Sales Analysis
 
 This project analyzes historical video game sales to identify what factors are associated with market performance across regions and platforms.
 
